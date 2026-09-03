@@ -13,4 +13,15 @@ Collection of Hardware, Embedded Systems, and IoT Projects from Academic Problem
 
 ---
 
-*More projects coming soon (Digital Electronics & Real-Time IoT Systems).*
+### 2. [BAYMAX LITE 2.0: Interactive Digital Health Monitoring System](./02-baymax-lite-digital-health-monitor)
+- **Category:** Digital Electronics & Microcontroller
+- **Key Hardware:** Arduino Uno, MLX90614 IR Temp Sensor, Pulse Sensor Amped, DFPlayer Mini MP3, LCD Display
+- **Summary:** Developed an interactive non-invasive health monitoring device that measures body temperature and pulse rate (BPM), classifies health conditions based on predefined thresholds, and provides real-time visual and voice responses.
+
+---
+
+### 3. [Real-Time Gas Leak Detection & Monitoring System](./03-gas-leak-detector-real-time)
+- **Category:** Sensor & IoT Systems
+- **Key Hardware:** MQ Gas Sensor, ESP Board, Buzzer, ,DC Motor, LCD Display
+- **Key Software:** Telegram bot chat, Adafruit IO
+- **Summary:** Developed an automated IoT laboratory safety system that monitors CO and Butane gas levels in real-time, triggering local physical responses (exhaust fan, buzzer, LED) and sending emergency alerts via Telegram and Adafruit IO.
