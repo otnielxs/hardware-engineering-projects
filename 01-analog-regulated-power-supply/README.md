@@ -17,5 +17,5 @@ An analog electronics project focused on designing and fabricating a linear regu
 - Enclosure & Monitoring: Custom Project Box + Panel Meter
 
 ## 📂 Project Files
-- `docs/`: Complete PBL Academic Report (PDF)
+- `report/`: Complete PBL Academic Report (PDF)
 - `media/`: Physical build photos and video demonstration
